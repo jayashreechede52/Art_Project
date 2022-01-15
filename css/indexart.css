@@ -1,0 +1,31 @@
+/* .card .imgs:hover{
+  transition: 1s; 
+  font-size: large; 
+  background-color: #ffffff;
+    color: black;
+    padding-right: 5px;
+} */
+
+
+.inner:hover img{
+    
+    transform: scale(1.1);
+}
+
+.inner1:hover img{
+    
+  transform: scale(1.1);
+}
+/* .btn-close:hover{
+counter-reset: pink;
+} */
+
+.btn:hover{
+  background-color: white;
+  color:#000000;
+}
+.b1:hover{
+  background-color: rgb(167, 14, 14);
+  color: white;
+}
+
